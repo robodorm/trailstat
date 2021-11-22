@@ -7,7 +7,7 @@ import (
 	"github.com/concourse/concourse/fly/rc"
 	"github.com/getlantern/systray"
 	"github.com/getlantern/systray/example/icon"
-	"github.com/lootbox/tripoli"
+	"github.com/robodorm/tripoli"
 	"net/http"
 	"reflect"
 	"runtime"
